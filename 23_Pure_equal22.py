@@ -2,7 +2,7 @@ from random import randint
 
 rowsandcolumns = int(input("sayıgir"))
 
-
+#comment
 #rowsandcolumns=6
 
 
