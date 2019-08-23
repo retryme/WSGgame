@@ -1,9 +1,9 @@
 from random import randint
 
-#rowsandcolumns = int(input("sayıgir"))
+rowsandcolumns = int(input("sayıgir"))
 
 
-rowsandcolumns=6
+#rowsandcolumns=6
 
 
 # tüm elemanları 0 olan array oluşturur
