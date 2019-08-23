@@ -2,7 +2,7 @@ from random import randint
 
 #rowsandcolumns = int(input("sayıgir"))
 
-
+#I have added a comment to see in merge
 rowsandcolumns=6
 
 
